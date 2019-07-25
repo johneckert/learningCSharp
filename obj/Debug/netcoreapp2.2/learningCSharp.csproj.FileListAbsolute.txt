@@ -1,0 +1,11 @@
+/Users/johneckert/Code/learningCSharp/obj/Debug/netcoreapp2.2/learningCSharp.csprojAssemblyReference.cache
+/Users/johneckert/Code/learningCSharp/obj/Debug/netcoreapp2.2/learningCSharp.csproj.CoreCompileInputs.cache
+/Users/johneckert/Code/learningCSharp/obj/Debug/netcoreapp2.2/learningCSharp.AssemblyInfoInputs.cache
+/Users/johneckert/Code/learningCSharp/obj/Debug/netcoreapp2.2/learningCSharp.AssemblyInfo.cs
+/Users/johneckert/Code/learningCSharp/bin/Debug/netcoreapp2.2/learningCSharp.deps.json
+/Users/johneckert/Code/learningCSharp/bin/Debug/netcoreapp2.2/learningCSharp.runtimeconfig.json
+/Users/johneckert/Code/learningCSharp/bin/Debug/netcoreapp2.2/learningCSharp.runtimeconfig.dev.json
+/Users/johneckert/Code/learningCSharp/bin/Debug/netcoreapp2.2/learningCSharp.dll
+/Users/johneckert/Code/learningCSharp/bin/Debug/netcoreapp2.2/learningCSharp.pdb
+/Users/johneckert/Code/learningCSharp/obj/Debug/netcoreapp2.2/learningCSharp.dll
+/Users/johneckert/Code/learningCSharp/obj/Debug/netcoreapp2.2/learningCSharp.pdb
